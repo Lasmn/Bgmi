@@ -28,5 +28,3 @@ jobs:
           pip install pyTelegramBotAPI pymongo aiohttp
       - name: Run soul.py
         run: python3 soul.py
-
-        
